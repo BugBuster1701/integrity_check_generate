@@ -1,4 +1,4 @@
-integrity_check_generate
-========================
+Contao Module Integrity Check Generator
+=======================================
 
-Contao Integrity Check - Checksum Generator
+Checksum generator for Contao module "Integrity Check"
