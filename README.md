@@ -1,4 +1,3 @@
-Contao Module Integrity Check Generator
-=======================================
+# Integrity Check Generator for Contao 3
 
-Checksum generator for Contao module "Integrity Check"
+Checksum generator for Contao 3 module "Integrity Check"
